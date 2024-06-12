@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/shivangbirla" target="blank"><img src="https://img.shields.io/twitter/follow/shivangbirla?logo=twitter&style=for-the-badge" alt="shivangbirla" /></a> </p>
 
-- 🔭 I’m currently working on **full stack project**
+- 🔭 I'm actively taking on **freelance projects** 
 
-- 🌱 I’m currently learning **MongoDb, mySQL, Express.js**
+- 🌱 I’m currently learning **Next.js 15 RC, Prisma**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-kappa-three-42.vercel.app/](https://my-portfolio-kappa-three-42.vercel.app/)
 
-- 💬 Ask me about **react, mySQL**
+- 💬 Ask me about **Nextjs, React, mySQL**
 
 - 📫 How to reach me **shivangbirla9999@gmail.com**
 
